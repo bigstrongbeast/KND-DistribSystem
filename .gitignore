@@ -1,0 +1,12 @@
+# Inventor backups / temp
+OldVersions/
+*.lck
+*.ipj.old
+packngo.log
+# Pack&Go leftovers and unused PRS copies (see trash/_ToDel_manifest.md)
+ASY PRS 9800*
+PRS *.ipt
+PRS-*.ipt
+TODO.md
+DRS_D1200/KND-9800 DrainSystemBottom 01.iam
+DRS_D1200/*1200x7.5*.ipt
