@@ -10,3 +10,7 @@ PRS-*.ipt
 TODO.md
 DRS_D1200/KND-9800 DrainSystemBottom 01.iam
 DRS_D1200/*1200x7.5*.ipt
+# old KND-* names replaced by NDV-* (see trash/_ToDel_manifest.md)
+KND-*
+DRS_D1200/KND-*
+DRS_D1200/Drawings/KND-*
